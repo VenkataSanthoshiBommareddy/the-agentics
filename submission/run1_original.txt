@@ -1,0 +1,9 @@
+PS C:\Users\shrut\my-agentic-assignment\agents-sdk-kit> uv run python main.py
+Agents SDK kit. Type 'quit' to exit.
+
+You: What is 18% of 2450?
+  (hand-off: The request asks for a percentage calculation, which is a quantitative problem.)
+
+[Math Tutor] 18% of 2450 is **441**. This is obtained by multiplying 2450 by 0.18.
+
+You: quit

@@ -1,0 +1,22 @@
+PS C:\Users\shrut\my-agentic-assignment\agents-sdk-kit> uv run python main.py
+Agents SDK kit. Type 'quit' to exit.
+
+You: What is 18% of 2450?
+  (hand-off: The user asks for a percentage calculation, which is a quantitative math problem.)
+
+[Math Tutor] To find 18 % of 2450, follow these steps:
+
+1. **Convert the percent to a decimal**  
+   \(18\% = \frac{18}{100} = 0.18\).
+
+2. **Multiply the decimal by the number**  
+   \[
+   0.18 \times 2450
+   \]
+
+3. **Calculate**  
+   Using the calculation tool, \(0.18 \times 2450 = 441.0\).
+
+**Answer:** 18 % of 2450 is **441**.
+
+You: quit
